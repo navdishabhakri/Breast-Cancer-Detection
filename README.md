@@ -7,9 +7,6 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-> Course project for **SEA600** (Milestones 1 to 3). Group members: <!-- add names -->
-> Educational work only. This is not a medical device and must not be used for real diagnosis.
-
 ---
 
 ## The problem
